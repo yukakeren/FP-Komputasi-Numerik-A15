@@ -1,6 +1,5 @@
-NRP        |  	Nama  	                    |   Github
-5025241030 | Agnella Agrata                 | agnellla
-5025241031 | Qurrata A’yun Kamil            | yukakeren
-5025241045 | Muhammad Fathan Haiban Rafif   | haibanr
-5025241094 | Fayza Lathifah Humam           | necloid
-5025241118 | Muhammad Adi Anugerah Arrahman | arrahmannugi
+https://github.com/necloid/FP-Komputasi-Numerik-A15.git
+https://github.com/yukakeren/FP-Komputasi-Numerik-A15.git
+https://github.com/arrahmannugi/FP-Komputasi-Numerik-A15
+https://github.com/agnellla/FP-Komputasi-Numerik-A15.git
+https://github.com/haibanr/FP-Komputasi-Numerik-A15.git
